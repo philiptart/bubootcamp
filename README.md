@@ -1,2 +1,2 @@
-# bubootcamp-day2
+# bubootcamp
 test demo
